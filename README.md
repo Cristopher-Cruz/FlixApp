@@ -28,5 +28,4 @@ Flix is an iOS app that allows users to browse movies from the [The Movie Databa
 
 <img src="http://g.recordit.co/7yu40YKndP.gif" width=250><br>
 
-### Notes
 
